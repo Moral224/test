@@ -44,6 +44,19 @@
     font-size: 21px;
 }
 #buy{
-    transform: translateY(-80px);
+    transform: translateY(-150px);
     padding: 50px;
+    padding-left: 500px;
+}
+#ticket{
+    transform: translateX(-400px);
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: yellow;
+}
+#become{
+    transform: translateX(20px);
+    transform: translateY(-28px);
+    padding-right: 120px;
+    padding-left: 120px;
 }
