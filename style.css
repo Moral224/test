@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav{
+    position: sticky;
+}
+#div{
+    height: 12vh;
+    font-family: sans-serif;
+    display: flex;
+}
+#expo{
+    width: 50%;
+}
+#move{
+    padding-left: 500px;
+}
+#venue{
+    list-style-type: none;
+    gap: 40px;
+}
+#venue a{
+    text-decoration: none; 
+    color: blue;
+}
+#get{
+    width: 90px;
+    transform: translateY(-8px);
+}
